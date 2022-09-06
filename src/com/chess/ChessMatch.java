@@ -1,6 +1,5 @@
 package com.chess;
 
-import com.application.UI;
 import com.boardgame.Board;
 import com.boardgame.Position;
 import com.chess.pieces.King;
